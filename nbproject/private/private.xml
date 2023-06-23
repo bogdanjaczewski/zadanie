@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/projects/zadanie/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/D:/projects/zadanie/tests/Unit/ExampleTest.php</file>
+            <file>file:/D:/projects/zadanie/routes/api.php</file>
+            <file>file:/D:/projects/zadanie/routes/web.php</file>
+            <file>file:/D:/projects/zadanie/database/factories/UserFactory.php</file>
+            <file>file:/D:/projects/zadanie/.env</file>
+            <file>file:/D:/projects/zadanie/app/Http/Controllers/Api/ProductController.php</file>
+            <file>file:/D:/projects/zadanie/tests/Feature/ProductsTest.php</file>
+            <file>file:/D:/projects/zadanie/config/auth.php</file>
+            <file>file:/D:/projects/zadanie/tests/TestCase.php</file>
+            <file>file:/D:/projects/zadanie/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/D:/projects/zadanie/app/Providers/AppServiceProvider.php</file>
+        </group>
+    </open-files>
+</project-private>
